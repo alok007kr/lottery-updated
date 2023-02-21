@@ -2,7 +2,7 @@ const HDWalletProvider = require("@truffle/hdwallet-provider")
 const Web3 = require("web3")
 const {abi, evm} = require("./compile")
 const provider = new HDWalletProvider(
-    'trend draw sponsor shell slow caught sentence mechanic consider together spy gaze',
+    ' mechanic consider together spy gaze',
     'https://goerli.infura.io/v3/fd4cd7711532434f91fd4638a1764122'
 )
 
