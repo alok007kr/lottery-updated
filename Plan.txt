@@ -1,0 +1,6 @@
+[+] Create the folder structure 
+[+] Setup the npm modules & install the dependencies
+   : Dependencies
+      - solc, web3, mocha, ganache-cli, truffle/hdwallet-provider
+[+] Set the script test to mocha
+[+] Start creating the contract
